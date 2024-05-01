@@ -1,4 +1,4 @@
-env
+venv
 build
 data
 dist
